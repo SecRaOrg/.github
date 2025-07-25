@@ -39,7 +39,6 @@ All without cloning your repo.
 - [x] Public repo scanning (free)
 - [x] AI-based vulnerability analysis
 - [ ] Enterprise private repo scanning (coming soon)
-- [ ] Developer dashboard & auto-issue filing
 - [ ] Community leaderboard / bug bounty model
 
 ---
@@ -51,4 +50,4 @@ We're currently invite-only. If you'd like to:
 - Contribute to testing
 - Discuss enterprise use cases
 
-📩 **Contact us at**: `agam1092005@gmail.com`  
+📩 **Contact us at**: `org.secra@gmail.com`  
